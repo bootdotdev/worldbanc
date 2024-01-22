@@ -28,7 +28,7 @@
 2024-01-12 00:03:39 INFO: Server not connected to Network. Check network connection.
 2024-01-12 00:03:44 INFO: Network connection re-established.
 2024-01-12 00:04:01 ERROR: Server not connected to Network. Check network connection.
-2024-01-12 00:04:07 INFO: Network connection re-established.
+2024-01-12 00:04:07 CRITICAL: Boots is out of Salmon again.
 2024-01-12 00:04:24 INFO: Server reboot complete. System ready.
 2024-01-12 00:04:33 ERROR: Server startup complete. System ready.
 2024-01-12 00:04:49 WARNING: Server startup complete. System ready.

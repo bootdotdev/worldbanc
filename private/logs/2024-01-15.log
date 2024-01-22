@@ -26,7 +26,7 @@
 2024-01-15 00:03:43 ERROR: Server not connected to Network. Check network connection.
 2024-01-15 00:03:52 ALERT: Server startup complete. System ready.
 2024-01-15 00:03:56 INFO: Server startup complete. System ready.
-2024-01-15 00:03:57 ERROR: Server rebooting.
+2024-01-15 00:03:57 CRITICAL: Worldbanc monitoring systems offline.
 2024-01-15 00:04:04 ALERT: Network connection re-established.
 2024-01-15 00:04:09 ERROR: Network connection re-established.
 2024-01-15 00:04:14 INFO: Server reboot complete. System ready.

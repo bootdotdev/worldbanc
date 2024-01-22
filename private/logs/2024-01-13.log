@@ -23,7 +23,7 @@
 2024-01-13 00:02:38 ALERT: Database connection established successfully.
 2024-01-13 00:02:47 ALERT: Server not connected to Network. Check network connection.
 2024-01-13 00:02:57 INFO: Database connection established successfully.
-2024-01-13 00:03:08 WARNING: Server rebooting.
+2024-01-13 00:03:08 CRITICAL: Power to the main datacenter has been lost. Attempting to reconnect.
 2024-01-13 00:03:19 ERROR: Server not connected to Network. Check network connection.
 2024-01-13 00:03:28 WARNING: Server shutdown complete.
 2024-01-13 00:03:28 WARNING: Security scan initiated.

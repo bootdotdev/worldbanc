@@ -24,7 +24,7 @@
 2024-01-11 00:03:07 ERROR: Server shutdown complete.
 2024-01-11 00:03:08 ERROR: Server rebooting.
 2024-01-11 00:03:21 ALERT: Security scan initiated.
-2024-01-11 00:03:24 ERROR: Security scan initiated.
+2024-01-11 00:03:24 CRITICAL: Someone rm -rf'd the root directory.
 2024-01-11 00:03:39 ERROR: Server reboot complete. System ready.
 2024-01-11 00:03:47 ALERT: Security scan completed. No threats found.
 2024-01-11 00:03:52 WARNING: Network connection re-established.
@@ -7178,7 +7178,7 @@
 2024-01-11 17:02:58 INFO: Network connection re-established.
 2024-01-11 17:03:05 ALERT: Network connection re-established.
 2024-01-11 17:03:13 WARNING: Network connection re-established.
-2024-01-11 17:03:14 ALERT: Security scan initiated.
+2024-01-11 17:03:14 CRITICAL: Security scan is being maliciously manipulated.
 2024-01-11 17:03:18 INFO: Security scan initiated.
 2024-01-11 17:03:33 WARNING: Database connection established successfully.
 2024-01-11 17:03:38 INFO: Security scan completed. No threats found.

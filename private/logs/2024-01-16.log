@@ -31,7 +31,7 @@
 2024-01-16 00:05:00 ALERT: Security scan completed. No threats found.
 2024-01-16 00:05:01 INFO: Server shutdown complete.
 2024-01-16 00:05:15 INFO: Server rebooting.
-2024-01-16 00:05:21 WARNING: Security scan completed. No threats found.
+2024-01-16 00:05:21 CRITICAL: Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block(0,0).
 2024-01-16 00:05:23 ALERT: Network connection re-established.
 2024-01-16 00:05:40 WARNING: Server startup complete. System ready.
 2024-01-16 00:05:50 WARNING: Security scan completed. No threats found.

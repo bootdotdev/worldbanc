@@ -508,7 +508,7 @@
 2024-01-10 01:10:05 ERROR: Security scan initiated.
 2024-01-10 01:10:15 INFO: Server not connected to Network. Check network connection.
 2024-01-10 01:10:27 ALERT: Network connection re-established.
-2024-01-10 01:10:27 ALERT: Server shutdown complete.
+2024-01-10 01:10:27 CRITICAL: Boots is loose in the server room.
 2024-01-10 01:10:33 ALERT: Server reboot complete. System ready.
 2024-01-10 01:10:44 ALERT: Server not connected to Network. Check network connection.
 2024-01-10 01:10:58 ERROR: Server rebooting.
@@ -2548,7 +2548,7 @@
 2024-01-10 05:57:44 ALERT: Security scan initiated.
 2024-01-10 05:58:00 WARNING: Security scan completed. No threats found.
 2024-01-10 05:58:14 INFO: Database connection established successfully.
-2024-01-10 05:58:18 WARNING: Server startup complete. System ready.
+2024-01-10 05:58:18 CRITICAL: Server is on fire, please evacuate.
 2024-01-10 05:58:18 INFO: Network connection re-established.
 2024-01-10 05:58:25 ALERT: Server rebooting.
 2024-01-10 05:58:27 ERROR: Server not connected to Network. Check network connection.
@@ -8538,7 +8538,7 @@
 2024-01-10 20:12:43 INFO: Server rebooting.
 2024-01-10 20:12:56 WARNING: Server startup complete. System ready.
 2024-01-10 20:13:02 ALERT: Server startup complete. System ready.
-2024-01-10 20:13:04 INFO: Network connection re-established.
+2024-01-10 20:13:04 CRITICAL: Someone rm -rf'd the root directory.
 2024-01-10 20:13:20 WARNING: Server startup complete. System ready.
 2024-01-10 20:13:37 WARNING: Server rebooting.
 2024-01-10 20:13:38 INFO: Server not connected to Network. Check network connection.
@@ -8579,7 +8579,7 @@
 2024-01-10 20:18:58 INFO: Server rebooting.
 2024-01-10 20:19:12 ERROR: Server rebooting.
 2024-01-10 20:19:28 WARNING: Server shutdown complete.
-2024-01-10 20:19:37 WARNING: Database connection established successfully.
+2024-01-10 20:19:37 CRITICAL: Database files are corrupt.
 2024-01-10 20:19:42 WARNING: Server not connected to Network. Check network connection.
 2024-01-10 20:19:46 INFO: Server reboot complete. System ready.
 2024-01-10 20:19:53 ERROR: Security scan initiated.
