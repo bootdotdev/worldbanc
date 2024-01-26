@@ -1,5 +1,4 @@
 #!/bin/sh
-# POSIX compliant shell script to generate 100 fake IDs
 
 generate_fake_id() {
     counter=$1
