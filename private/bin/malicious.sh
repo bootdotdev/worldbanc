@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Function to handle SIGINT when 'force' is not used
 handle_sigint() {
