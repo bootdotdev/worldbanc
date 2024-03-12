@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 generate_fake_id() {
     counter=$1
