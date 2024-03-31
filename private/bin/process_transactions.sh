@@ -24,4 +24,4 @@ while IFS= read -r line; do
         echo "$line"
     fi
 # skip the first line (header)
-done < <(tail +2 "$1")
+done < <(tail -n +2 "$1")
